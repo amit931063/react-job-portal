@@ -64,6 +64,10 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request (we will merge within 24 hour)
 Please give a star ⭐ to the repository if you like it.
 Contact
+<<<<<<< HEAD
 Amit Kumar -   https://github.com/amit931063
+=======
+Amit Kumar - https://github.com/amit931063
+>>>>>>> 2265b86b3d726fef8d16838109563e5350b727c6
 
 Project Link: https://github.com/amit931063/react-job-portal.git
